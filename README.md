@@ -140,10 +140,27 @@ MyProject/
 ```
 
 ---
-
 ## 🖼 Screenshots
 
-*(Add GIFs or images of your app here for GitHub preview)*
+### 📌 Add User Page   User List Page
+<p align="center">
+  <img src="screenshots/add_user.png" width="800" />
+</p>
+
+### 📌 User List Page
+<p align="center">
+  <img src="screenshots/user_details.png" width="800" />
+</p>
+
+### 📌 Edit User Page
+<p align="center">
+  <img src="screenshots/edit_user_details.png" width="800" />
+</p>
+
+### 📌 Edit User Page
+<p align="center">
+  <img src="screenshots/delete_user.png" width="800" />
+</p>
 
 ---
 
