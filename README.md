@@ -142,7 +142,7 @@ MyProject/
 ---
 ## 🖼 Screenshots
 
-### 📌 Add User Page   User List Page
+### 📌 Add User Page  
 <p align="center">
   <img src="screenshots/add_user.png" width="800" />
 </p>
@@ -157,7 +157,7 @@ MyProject/
   <img src="screenshots/edit_user_details.png" width="800" />
 </p>
 
-### 📌 Edit User Page
+### 📌 Delete User Page
 <p align="center">
   <img src="screenshots/delete_user.png" width="800" />
 </p>
