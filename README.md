@@ -1,5 +1,5 @@
 
-# ![Django](https://img.shields.io/badge/Django-100000?style=for-the-badge\&logo=django\&logoColor=white) MyProject - User Management System
+# ![Django](https://img.shields.io/badge/Django-100000?style=for-the-badge\&logo=django\&logoColor=white) Django - User Management System
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
@@ -51,13 +51,13 @@ It provides a **full CRUD interface** for managing users and their profiles with
 1. **Clone the repository**:
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/sathya-selvz/Django-Mysql-User-Management/tree/main>
 ```
 
 2. **Navigate to project folder**:
 
 ```bash
-cd MyProject
+cd myproject
 ```
 
 3. **Create and activate virtual environment**:
