@@ -9,6 +9,8 @@ venv/
 # Environment files
 .env
 
+pyvenv.cfg
+
 
 
 
